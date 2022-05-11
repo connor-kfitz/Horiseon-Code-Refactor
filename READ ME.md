@@ -1,9 +1,9 @@
 1.  Added the following semantic tags throughtout the html document:
-    <header>
-    <main>
-    <figure>
-    <section>
-    <footer>
+header
+main
+figure
+section
+footer
 
 2.  Properly indented html document with new semantic tags
 
