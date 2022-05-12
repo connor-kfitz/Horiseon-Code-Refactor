@@ -25,4 +25,4 @@ footer
 
 ## Picture of Website
 
-/Assets/01-challenge-readme.png
+![Picture of Horiseon Webpage](./Assets/01-challenge-readme.png)
