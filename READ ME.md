@@ -1,18 +1,18 @@
-# Add Accessibility to Horiseon Website
+# Add Accessibility and Format HTML for Horiseon's Website
 
 ## Description
 
-The purpose of this project is to add accessibility elements and properly format Horiseon's webpage HTML and CSS code,.  This is done using semantic tags, alt atributes, and logical structure.  Adding these tags will make the website more accesible for people with disabilities and up the priority on google's search alogirithim.    
+The purpose of this project is to add accessibility elements and properly format Horiseon's webpage HTML and CSS code.  This is done using semantic tags, alt atributes, and logical structure.  Adding these tags will make the website more accessible for people with disabilities and up the priority on Google's search alogirithim.    
 
 ## Steps Taken
 
 1.  Added the following semantic tags throughtout the html document:
 
-*header
-*main
-*figure
-*section
-*footer
+    *header
+    *main
+    *figure
+    *section
+    *footer
 
 2.  Properly indented html document with new semantic tags
 
