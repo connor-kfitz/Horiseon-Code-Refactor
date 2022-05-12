@@ -1,4 +1,4 @@
-# <Add Accessibility to Horiseon Website>
+# Add Accessibility to Horiseon Website
 
 ## Description
 
@@ -7,11 +7,12 @@ The purpose of this project is to add accessibility elements and properly format
 ## Steps Taken
 
 1.  Added the following semantic tags throughtout the html document:
-header
-main
-figure
-section
-footer
+
+*header
+*main
+*figure
+*section
+*footer
 
 2.  Properly indented html document with new semantic tags
 
