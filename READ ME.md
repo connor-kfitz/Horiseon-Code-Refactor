@@ -25,4 +25,4 @@ The purpose of this project is to add accessibility elements and properly format
 
 ## Picture of Website
 
-![Picture of Horiseon Webpage](./Assets/01-challenge-readme.png)
+![Picture of Horiseon Webpage](./assets/images/01-challenge-readme.png)
