@@ -1,8 +1,8 @@
-# Add Accessibility and Format HTML for Horiseon's Website
+# Horiseon Code Refactor
 
 ## Description
 
-The purpose of this project is to add accessibility elements and properly format Horiseon's webpage HTML and CSS code.  This is done using semantic tags, alt attributes, and logical structure.  Adding these tags will make the website more accessible for people with disabilities and up the priority on Google's search algorithm.    
+The purpose of this project is to add accessibility elements and properly format Horiseon's webpage HTML and CSS code.  This is done using semantic tags, alt attributes, and logical structure.  Adding these tags will make the website more accessible for people with disabilities and up it's priority on Google's search algorithm.    
 
 ## Steps Taken
 
